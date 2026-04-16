@@ -1,0 +1,14 @@
+{
+  "name": "wizard walks reversly (wwr)",
+  "description": "Wizard-Walk Reverse Engineering plugin - Comprehensive binary analysis for file identification, architecture detection, protections analysis, static/dynamic analysis, and pattern recognition",
+  "version": "1.0.0",
+  "author": {
+    "name": "Wizard",
+    "email": "wizard@wwr.dev"
+  },
+  "homepage": "https://github.com/wizard/wwr",
+  "repository": "https://github.com/wizard/wwr",
+  "license": "MIT",
+  "tags": ["reverse-engineering", "binary-analysis", "security", "malware-analysis"],
+  "keywords": ["reverse engineering", "disassembler", "decompiler", "binary analysis", "security research"]
+}
